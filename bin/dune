@@ -1,4 +1,4 @@
 (executable
- (public_name calculator)
  (name main)
- (libraries calculator core yojson dream))
+ (public_name demo)
+ (libraries core yojson dream ounit2))
